@@ -1,0 +1,14 @@
+@import url('https://fonts.cdnfonts.com/css/satoshi');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Satoshi', Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #f0f1f4;
+}
